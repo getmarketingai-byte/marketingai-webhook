@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "marketingai-webhook",
+  "functions": {
+    "api/stripe-webhook.js": {
+      "maxDuration": 30
+    }
+  }
+}

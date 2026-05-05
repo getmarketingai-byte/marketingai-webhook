@@ -1,0 +1,13 @@
+{
+  "name": "marketingai-webhook",
+  "version": "1.0.0",
+  "description": "MarketingAI post-payment automation webhook",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
